@@ -24,6 +24,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hetang7802&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetang7802&theme=tokyonight)
+
+
 
 <!--
 **hetang7802/hetang7802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
