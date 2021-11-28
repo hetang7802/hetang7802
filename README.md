@@ -14,7 +14,7 @@
  <a href="https://www.linkedin.com/in/hetang-patel-17627a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="hetang-patel-17627a222" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hetang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hetang" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hetang.patel.3785/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="hetang.patel.3785" height="30" width="40" /></a>
-<a href="mailto:hetangpatel7802@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30"></a>
+<a href="mailto:hetangpatel7802@gmail.com"> <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Python" height="30"></a>
  <br>
  
 [![Badge](https://cp-logo.vercel.app/codeforces/hetang?logo=true)]
