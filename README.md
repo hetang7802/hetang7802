@@ -2,6 +2,9 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=hetang7802.hetang7802)
 
+[![Github](https://img.shields.io/github/followers/hetang7802?label=Follow&style=social)](https://github.com/hetang7802)
+
+
 ## ✉️ Find me on:
 
 <p align="center">
