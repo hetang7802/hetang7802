@@ -18,6 +18,8 @@
 <!-- <a href="mailto:hetangpatel7802@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/300px-Gmail_icon_%282020%29.svg.png" alt="Python" height="30"></a> -->
  <br>
  
+ 
+[![Badge](https://cp-logo.vercel.app/codechef/hetang?logo=true)]
 [![Badge](https://cp-logo.vercel.app/codeforces/hetang?logo=true)]
 
 </p>
