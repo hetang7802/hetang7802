@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a computer science undergraduate at IIT Guwahati, India.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=hetang7802.hetang7802)
 
